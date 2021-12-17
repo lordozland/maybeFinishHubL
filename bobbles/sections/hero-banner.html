@@ -30,7 +30,7 @@
     {% dnd_row %}
       {% dnd_module
         path='@hubspot/rich_text'
-        html={{ context.content || '<h1>Alt</h1><p>Alt</p>' }}
+        html={{ context.content || '<h1>Alt</h1><button onclick="here()">here</button><p>Alt</p>' }}
       %}
       {% end_dnd_module %}
     {% end_dnd_row %}
