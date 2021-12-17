@@ -1,0 +1,12 @@
+defaultPortal: Here
+portals:
+  - name: Here
+    portalId: 21007727
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CKD33sbcLxIJAA0AAAAA4A0DGO-aggoguJz_DCju6QwyFFyaiCXaxqUiQ6iWvwhXsidSAQ5IOigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgQhQayGDTK1C95aXxro8yZenELXrTpUoDbmExUgBaAA
+        expiresAt: '2021-12-17T14:42:01.256Z'
+    personalAccessKey: >-
+      CiQ0NzdmN2RlOS1jMDMyLTRkNWYtOTVmNi0xZTIxY2EwYTYxYzQQ75qCChi4nP8MKhkABeaRgjbawefThK98yPaZF_tByunFBuYzSgNuYTE
